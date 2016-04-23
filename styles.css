@@ -1,0 +1,46 @@
+
+.article {
+	border: solid 2px;
+	border-radius: 4px;
+	border-color: #cccccc;
+	background-color: fff;
+	box-shadow: 1px 10px 30px -8px #ccc;
+	padding: 15px;
+	max-width: 300px;
+}
+
+.title {
+	font-size: 40px;
+}
+
+.interestingFacts {
+	font-style: italic;
+}
+
+.images {
+	padding-bottom: 15px;
+	max-width: 300px;
+}
+
+.info {
+	border: solid 2px;
+	border-color: #cccccc;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.attributes {
+	font-style: italic;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.subtitle {
+	font-weight: bold;
+	font-style: normal;
+
+}
+
+#body {
+	font-family: Arial, Helvetica, Sans-serif;
+}
